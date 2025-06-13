@@ -2,6 +2,12 @@
 <p align="left">
 </p>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=435&height=180&lines=rcat+listen+3306;listening+on+%5Bany%5D+1337+...;connect+to+%5Bibrahimsql%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;ibrahimsql%40profile%3A~%24+.%2F./exploit66;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
+
+
+
+
 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=yigitsql&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
