@@ -1,4 +1,8 @@
-Hi My name is ibrahimsql
+<h1 align="center">Hi 👋, I'm ibrahimsql</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=yigitsql&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
