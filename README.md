@@ -1,10 +1,10 @@
-
 Hi My name is ibrahimsql
 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=yigitsql&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 Top Langs
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitsql&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
